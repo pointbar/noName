@@ -2,6 +2,35 @@
 
 - #STM32 #MSP430 #Teensy3 #ESP8266
 
+Expérimenter autour de l'électronique et de la programmation, Explorer des nouvelles formes d'apprentissage, faire des trucs ensemble.
+
+# Pour qui ?
+
+On a envie de dire pour tout le monde, et en même temps si tu ne partages pas les valeurs je pense que ça va être compliqué, et pour toi, et pour nous.
+
+Donc, pour les personnes inspirées par le descriptifs, le thème et qui partagent les valeurs de la proposition.
+
+
+# Qu'est-ce qui change par rapport à une formation classique ?
+
+Il y a une intention forte sur les valeurs et les principes qu'y nous animent.
+
+- Nous apprécions les postures basses, nous préférons apprendre avec les participant•e•s plutôt qu'éduquer des stagiaires.
+- Il n'y a pas de formats arrêtés, nous expérimentons des ateliers en puisant dans nos boites à outils ou en inventant des nouvelles formes d'intéractions.
+- On aime faire des trucs inspirants, avec des personnes enthousiastes et dans un cadre confortable et bientraitant.
+
+
+## Format
+
+Les formats évoluent, nous continuons à explorer et à adapter les expériences aux contextes que nous rencontrons.
+
+
+
+
+
+## Qui nous sommes ?
+
+
 ## Date
 Du Jeudi 19 au dimanche 22 avril 2018
 À Équisud gîte - aux Angles dans les Pyrénées-Orientales à 1500 mètres.
