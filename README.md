@@ -6,9 +6,14 @@ Expérimenter autour de l'électronique et de la programmation, Explorer des nou
 
 # Pour qui ?
 
-On a envie de dire pour tout le monde, et en même temps si tu ne partages pas les valeurs je pense que ça va être compliqué, et pour toi, et pour nous.
+On a envie de dire pour tout le monde, et en même temps si tu ne partages pas les valeurs ça peut devenir compliqué, et pour toi, et pour nous.
 
-Donc, pour les personnes inspirées par le descriptifs, le thème et qui partagent les valeurs de la proposition.
+Donc, pour les personnes inspirées par le descriptif, le thème et qui partagent les valeurs de la proposition.
+
+# Il faut quand même s'y connaitre un peu ?
+
+Pourquoi un peu ? Tu peux venir avec beaucoup d'expérience ou pas du tout. Nous avons en tête de proposer des ateliers qui ne nécéssitent pas de pré-requis techniques
+
 
 
 # Qu'est-ce qui change par rapport à une formation classique ?
