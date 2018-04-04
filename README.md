@@ -12,24 +12,32 @@
 
 # C'est quoi l'idée ?
 
-NoName c'est 3 jours de formation autour de l'électronique et de la programmation. Sans programme, sans plan et sans formateur.
+Dans un gîte dans les pyrénées, *NoName* c'est 3 jours de formation en groupe autour de l'électronique et de la programmation.
 
+Le tout sans programme, sans plan et sans formateur.
 
+## Sans formateur ?
 
-## Qu'est-ce qui change par rapport à une formation classique ?
+Yep ! On est convaincu que ce qui favorise l'apprentissage, c'est le cadre dans lequel cela se passe plus que la préparation d'un•e formateur•trice expert qui sait tout (ou presque).
 
-Il y a une intention forte sur les valeurs et les principes qu'y nous animent.
+Nous apprécions les postures basses, nous préférons apprendre avec les participant•e•s plutôt qu'éduquer des stagiaires.
 
-- Nous apprécions les postures basses, nous préférons apprendre avec les participant•e•s plutôt qu'éduquer des stagiaires.
-- Il n'y a pas de formats arrêtés, nous expérimentons des ateliers en puisant dans nos boites à outils ou en inventant des nouvelles formes d'intéractions.
-- On aime faire des trucs inspirants, avec des personnes enthousiastes et dans un cadre confortable et bientraitant.
+## Sans programme on va apprendre quoi ?
 
-## Format
-Les formats évoluent, nous continuons à explorer et à adapter les expériences aux contextes que nous rencontrons.
+C'est une bonne question. Je n'ai pas de réponse. Ça dépendra principalement de ce que tu as envie d'apprendre. 
+Le thème de base c'est l'électronique et la programmation de micro controleurs type arduino ou ESP8266 par exemple. 
+
+Mais puisqu'on va travaillez en groupe et trouver ensemble des façons d'apprendre et de partager des connaissances, il serait surprenant que tu ne repartes pas avec des choses de ce côté là.
+
+Oh, et on fera la cuisine aussi ;)
+
+## Oui, mais concrètement ?
+
+Il n'y a pas de formats arrêtés, nous allons expérimenter des ateliers en puisant dans nos boites à outils ou en inventant des nouvelles formes d'intéractions.
 
 ## Quelles sont les valeurs de cet évènement ?
 
-[A]
+On aime faire des trucs inspirants, avec des personnes enthousiastes et dans un cadre confortable et bientraitant.
 
 ## Pourquoi on fait comme ça ?
 - le résultat on sait pas, mais je suis sûr que ça va être cool
