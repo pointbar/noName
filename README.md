@@ -81,17 +81,26 @@ Du Jeudi 19 au dimanche 22 avril 2018
 
 ## Combien ça coute ?
 
-[A]
+D'abord, il y a le prix de l'hébergement et des repas. Pour l'hébergement, c'est 50€ par personne pour les 3 jours.
+Pour les repas, on estime à 80€ par personne pour l'ensemble des repas sur les 3 jours.
 
-- 1500 euros/jr BaT[^1]
-- Transparence du prix
+Ensuite, nous sommes deux à animer cette session et on aimerait bien :
 
-- exemple de prix par rapport au nbr de stagiaires
+- avoir nos frais remboursés (déplacement, hébergement, repas)
+- et « gagner » 1500 euros chacun hors taxe.
 
-- 80 euros /pers - 3 /jr
-- 50 balles /pers - 3 /jr
+Nous avons une *empreinte économique* personnelle[^2] assez similaire qui tourne autour de 1500 € par mois.
+Une fois retirés les frais fixes, les cotisations sociales et autres impôts, le bénéfice réel représente environ la moitié de ce budget.
 
-- Frais de transport (60) - (bouffe - hbgt: 130)
+Donc si *N* est le nombre de participants, le coût total : ((80 + 50)*N[^3] + 60 * 2[^4] + (80+50) * 2[^5] + 1500 * 2[^6]).
+
+Si on divise par le nombre de participants cela donne, pour les 3 jours :
+
+- à deux participants : 1820€ HT par personne. Ouch.
+- à quatre : 975€ HT par personne
+- à six : 699,33€ HT par personne
+- à huit : 552,50€ HT par personne
+- à dix : 468€ HT par personne
 
 ## Comment venir
 
@@ -118,3 +127,8 @@ https://www.laregion.fr/IMG/pdf/oc-18-02-fhbus-260_porte-perpignan-web.pdf
 
 
 [^1]: bénéfices avant taxe
+[^2]: ce dont on a besoin pour *vivre*, hébergement, repas, loisir, ...
+[^3]: repas et hébergements des participants
+[^4]: déplacement Antoine et Stéphane
+[^5]: repas et hébergements Antoine et Stéphane
+[^6]: facturation Antoine et Stéphane
