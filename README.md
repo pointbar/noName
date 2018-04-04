@@ -66,11 +66,26 @@ Du Jeudi 19 au dimanche 22 avril 2018
 
 ## Logistique
 
-[S]
-
-- drap dessus + duvet + serviette
-- 
-
+### Que faut-il prendre pour s'assurer un séjour confortable ?
+  - 1 drap de dessus ou un sac de couchage
+  - 1 serviette
+  
+  Suivant les activités envisagées :
+  - chaussures de marche
+  - vêtements chauds
+  - maillot de bain
+  
+### Sur place on aura
+  - des micro-contrôleurs, des composants, des boards
+  - 2 vidéo-projecteurs
+  - des multi-prises
+  - des connexions wifi (Box et 4Gs)
+  
+  Et aussi :
+  - une cuisine professionnelle
+  - au moins une voiture
+  - des enceintes amplifiées
+  
 ## Combien ça coute ?
 
 [A]
